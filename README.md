@@ -14,3 +14,6 @@ git add .gitignore
 git commit -m "Gitignore"
 git push
 
+#3 Задание
+https://github.com/alibok86/netology/network
+
